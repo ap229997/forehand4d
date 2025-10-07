@@ -1,0 +1,15 @@
+*.DS_Store
+*.vscode/
+**._**
+**__pycache__**
+downloads/*
+data/*
+bash/*
+logs/*
+waste/*
+viz/*
+ckpt/*
+outputs/*
+render_out/*
+**/smpl_models/*
+**time.txt
