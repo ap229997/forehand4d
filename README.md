@@ -15,10 +15,10 @@ Pipeline:
 
 If you find our code or paper useful, please cite
 ```bibtex
-@misc{Prakash2025ForeHand4D,
+@article{Prakash2025ForeHand4D,
                 author = {Prakash, Aditya and Forsyth, David and Gupta, Saurabh},
                 title = {Bimanual 3D Hand Motion and Articulation Forecasting in Everyday Images},
-                howpublished = {https://github.com/ap229997/forehand4d},
+                journal = {arXiv:2510.06145},
                 year = {2025}
             }
 ```
